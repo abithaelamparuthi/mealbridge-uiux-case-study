@@ -1,19 +1,45 @@
-# mealbridge-uiux-case-study
-A UI/UX case study for a meal planning and recipe app with grocery integration.
+
 # MealBridge – UI/UX Case Study
 
 ## 📱 Overview
 MealBridge is a mobile app designed to simplify meal planning, recipe discovery, and grocery shopping.
+
+## 🎯 Problem Statement
+Users often struggle with planning meals and managing grocery shopping efficiently.
+
+## 💡 Solution
+MealBridge provides a seamless experience to discover recipes, plan meals, and manage grocery lists in one place.
 
 ## 🎯 Key Features
 - Personalized recipe suggestions
 - Meal planning calendar
 - Grocery list integration
 
-## 🖼️ Screens
+---
+
+## 🖼️ Main Screens
 
 ### Home Screen
-![Home]
+![Home](home.png)
 
-### Onboarding
-![Onboarding]
+---
+
+## 🔐 Authentication Flow
+
+### Splash Screen
+![Splash](splash.png)
+
+### Login
+![Login](login.png)
+
+### Signup
+![Signup](signup.png)
+
+### Forgot Password
+![Forgot](forgot.png)
+
+### OTP Verification
+![OTP](otp.png)
+
+### Reset Password
+![Reset](reset.png)
