@@ -17,29 +17,39 @@ MealBridge provides a seamless experience to discover recipes, plan meals, and m
 
 ---
 
-## 🖼️ Main Screens
+## 🖼️ Main Screens  
 
-### Home Screen
-![Home](home.png)
+### Home Screen  
+<img src="home.png" width="250"/>
+
+### Recipe Screen  
+<img src="recipe.png" width="250"/>
+
+### Meal Planner (Calendar)  
+<img src="mealplanner.png" width="250"/>
+
+### Recipe Ingredients  
+<img src="ingredients.png" width="250"/>
 
 ---
 
 ## 🔐 Authentication Flow
 
-### Splash Screen
-![Splash](splash.png)
+### Splash Screen  
+<img src="splash.png" width="250"/>
 
-### Login
-![Login](login.png)
+### Login  
+<img src="login.png" width="250"/>
 
-### Signup
-![Signup](signup.png)
+### Signup  
+<img src="signup.png" width="250"/>
 
-### Forgot Password
-![Forgot](forgot.png)
+### Forgot Password  
+<img src="forgot.png" width="250"/>
 
-### OTP Verification
-![OTP](otp.png)
+### OTP Verification  
+<img src="otp.png" width="250"/>
 
-### Reset Password
-![Reset](reset.png)
+### Reset Password  
+<img src="reset.png" width="250"/>
+
